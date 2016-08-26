@@ -1,7 +1,5 @@
 var res = {
-  HealTexture_png: "res/Heal_texture.png",
-  DotTexture_png: "res/Dot_texture.png",
-  particle_texture: "res/Dot_texture.png",
+
   chara_princessselect_10: "res/char/chara_princessselect_10.png",
   chara_princessselect_11: "res/char/chara_princessselect_11.png",
   chara_princessselect_12: "res/char/chara_princessselect_12.png",
@@ -14,21 +12,32 @@ var res = {
   chara_enemy_4: "res/char/chara_enemy_4.png",
   chara_enemy_5: "res/char/chara_enemy_5.png",
   chara_enemy_6: "res/char/chara_enemy_6.png",
-  FireTexture0_plist: "res/effect/Fire_texture0.plist",
-  FireTexture1_plist: "res/effect/Fire_texture1.plist",
-  FireTexture2_plist: "res/effect/Fire_texture2.plist",
-  FireTexture3_plist: "res/effect/Fire_texture3.plist",
-  FireTexture4_plist: "res/effect/Fire_texture4.plist",
-  WaterTexture1_plist: "res/effect/Water_texture1.plist",
-  WaterTexture2_plist: "res/effect/Water_texture2.plist",
-  WaterTexture3_plist: "res/effect/Water_texture3.plist",
-  WaterTexture4_plist: "res/effect/Water_texture4.plist",
-  WoodTexture1_plist: "res/effect/Wood_texture1.plist",
-  WoodTexture2_plist: "res/effect/Wood_texture2.plist",
-  WoodTexture3_plist: "res/effect/Wood_texture3.plist",
-  WoodTexture4_plist: "res/effect/Wood_texture4.plist",
-  HealTexture1_plist: "res/effect/Heal_texture1.plist",
-  SlipTexture1_plist: "res/effect/Slip_texture1.plist",
+
+  fire_pliset1: "res/originEF/fire_all.plist",
+  fire_pliset2: "res/originEF/fire_wall.plist",
+  fire_pliset3: "res/originEF/fire_wall_ud.plist",
+
+  LS_pliset1: "res/originEF/LS_UP_first.plist",
+  LS_pliset2: "res/originEF/LS_main.plist",
+  LS_pliset3: "res/originEF/LS_sub.plist",
+
+  //LSUP_pliset1: "res/originEF/LS_UP_first.plist",
+  LSUP_pliset1: "res/originEF/LS_UP_main.plist",
+  LSUP_pliset2: "res/originEF/LS_UP_sub.plist",
+
+  tension_pliset1: "res/originEF/tension_up_fire.plist",
+  handP_pliset1: "res/originEF/hand_ball.plist",
+  hand_pliset1: "res/originEF/hand_fire.plist",
+  hand_pliset2: "res/originEF/hand_fire_sub.plist",
+  handEnd_pliset1: "res/originEF/hand_fire_end.plist",
+
+  dark_pliset1: "res/originEF/Dark1.plist",
+  dark_pliset2: "res/originEF/Dark3.plist",
+  dark_pliset3: "res/originEF/Dark4.plist",
+  dark_pliset4: "res/originEF/Dark5.plist",
+  dark_pliset5: "res/originEF/Dark6.plist",
+  dark_pliset6: "res/originEF/Dark2.plist",
+
 
 };
 
