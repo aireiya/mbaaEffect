@@ -119,7 +119,7 @@ var particleLayer = cc.Layer.extend({
     var skillName = ["fire", "LS", "LSUP", "tension", "handP","hand", "handEnd", "dark"];
     var x = [750, 750, 750,/*fire*/
        400, 400, 400,/*LS*/
-       350, 370,/*LSUP*/
+       330, 350,/*LSUP*/
         450,/*tention*/
         530,/*handP*/
         450, 450,/*hand*/
