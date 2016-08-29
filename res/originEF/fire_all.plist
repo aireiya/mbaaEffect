@@ -67,7 +67,7 @@
 	<key>rotationStartVariance</key>
 	<real>0</real>
 	<key>sourcePositionVariancex</key>
-	<real>345</real>
+	<real>200</real>
 	<key>sourcePositionVariancey</key>
 	<real>5</real>
 	<key>sourcePositionx</key>
